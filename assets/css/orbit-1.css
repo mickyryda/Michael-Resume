@@ -330,3 +330,8 @@ p {
     margin-bottom: 0;
   }
 }
+
+
+hr {
+  background-color: black;
+}
